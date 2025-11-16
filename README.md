@@ -12,7 +12,7 @@ cd Books-Explorer
 scrapy crawl books -o books.json
 
 # Explorer menu
-python explore-books.py
+python explore_books.py
 
 ```
 
