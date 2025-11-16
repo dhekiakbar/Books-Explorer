@@ -21,5 +21,5 @@ python explore_books.py
 - > ***DONE*** Extract raw pages data from each category
 - > ***DONE*** Extract title from each books at each category
 - > ***DONE*** Extract price, stock, etc from each books at each category
-- > _ Create prompt menu for user
-- > _ Create some function to explore books data 
+- > ***DONE*** Create prompt menu for user
+- > ***DONE*** Create some function to explore books data 
