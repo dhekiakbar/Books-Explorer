@@ -2,7 +2,21 @@
 
 Spider to learn big data and programming lecture
 
-> #  To do :
+# How to use
+```
+# Install Requirement
+pip install scrapy pick
+
+# Scrap books data
+cd Books-Explorer
+scrapy crawl books -o books.json
+
+# Explorer menu
+python explore-books.py
+
+```
+
+#  To do :
 - > ***DONE*** Extract books category
 - > ***DONE*** Extract raw pages data from each category
 - > ***DONE*** Extract title from each books at each category
